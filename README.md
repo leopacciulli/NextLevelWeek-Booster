@@ -16,7 +16,7 @@
 
 ### Features
 - [X] **Node.JS** - Creating the basis of the application (**Back-End**)
-- [ ] **React.JS** - Creating the Web application (**Front-End**)
+- [X] **React.JS** - Creating the Web application (**Front-End**)
 - [ ] **React Native** - Creating the Mobile application (**Mobile**)
 
 <br>
@@ -37,6 +37,13 @@ The Back-End was developed with Node.js and TypeScript. Using SQL database, perf
 
 <br>
 
+## 🤖 Front-end
+The Front-End was developed with React.js and TypeScript.
+
+### 🛠 Technologies
+- **[React.js](https://pt-br.reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+
 ### 🏁 Starting
 Clone the project: `git clone https://github.com/leopacciulli/NextLevelWeek-Booster.git`
 
@@ -53,6 +60,19 @@ $ yarn
 
 # to start the application on port 3333
 $ yarn dev
+````
+
+💻 To run the **Front-End**
+
+````zsh
+# to enter the Front-End folder
+$ cd NextLevelWeek-Booster and cd frontend
+
+# to download the dependencies
+$ yarn
+
+# to start the application
+$ yarn start
 ````
 
 ---

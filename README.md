@@ -17,7 +17,7 @@
 ### Features
 - [X] **Node.JS** - Creating the basis of the application (**Back-End**)
 - [X] **React.JS** - Creating the Web application (**Front-End**)
-- [ ] **React Native** - Creating the Mobile application (**Mobile**)
+- [X] **React Native** - Creating the Mobile application (**Mobile**)
 
 <br>
 
@@ -37,11 +37,19 @@ The Back-End was developed with Node.js and TypeScript. Using SQL database, perf
 
 <br>
 
-## 🤖 Front-end
+## 💻 Front-end
 The Front-End was developed with React.js and TypeScript.
 
 ### 🛠 Technologies
 - **[React.js](https://pt-br.reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+
+## 📱 Mobile
+The Mobile was developed with React Native and TypeScript using Expo.
+
+### 🛠 Technologies
+- **[React Native](https://reactnative.dev/)**
+- **[Expo](https://expo.io/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 
 ### 🏁 Starting
@@ -73,6 +81,26 @@ $ yarn
 
 # to start the application
 $ yarn start
+````
+
+📱 To run the **Mobile** app you need an Android or iOS simulator (Mac only) running on your computer or connect your physical smartphone to USB. To learn how to install / configure, follow the RocketSeat tutorial.
+Now, on another tab of the terminal, run the following commands:
+
+````zsh
+# to enter the Mobile folder
+$ cd mobile
+
+# to download the dependencies
+$ yarn
+
+# to run openning the Expo on your browser
+$ yarn start
+
+# OR to start the app on the simulator or on the Android physical smartphone connected to the USB device
+$ yarn android
+
+# OR to launch the app on the simulator or on the physical iOS smartphone connected to the USB device (only using Mac)
+$ yarn ios
 ````
 
 ---

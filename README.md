@@ -1,17 +1,11 @@
 <div align="center">
-  <img alt="NLW" src="./background.jpg" width="400px" />
+  <img alt="NLW" src="./eco.png" width="650px" />
 </div>
 
 <br>
 
-<!-- <div align="center">
-  <img src="./assets/logo.svg" width="250px">
-</div> -->
-
-<h2 align="center">🚧 In Development 🚧</h2>
-
 <h3 align="center">
-  Next Level Week - Booster Edition
+  🚀 Next Level Week - Booster Edition 🚀
 </h3>
 
 ### Features
